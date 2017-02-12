@@ -1,0 +1,6 @@
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Task2_PUNCH\Task2_PUNCH\bin\Debug\Task2_PUNCH.exe.config
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Task2_PUNCH\Task2_PUNCH\bin\Debug\Task2_PUNCH.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Task2_PUNCH\Task2_PUNCH\bin\Debug\Task2_PUNCH.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Task2_PUNCH\Task2_PUNCH\obj\Debug\Task2_PUNCH.csprojResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Task2_PUNCH\Task2_PUNCH\obj\Debug\Task2_PUNCH.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Task2_PUNCH\Task2_PUNCH\obj\Debug\Task2_PUNCH.pdb
